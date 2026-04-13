@@ -51,7 +51,7 @@ Backend tarafında temiz, sürdürülebilir ve ölçeklenebilir sistemler kurmay
 
 ## 📫 Bana Ulaş
 
-- 💼 GitHub: [github.com/mrbalasare](https://github.com/mrbalasare)
+- 💼 GitHub: [github.com/mrbalasare](https://github.com/emrebalasar)
 - 📧 Email: [mrbalasare@gmail.com](mailto:mrbalasare@gmail.com)
 
 ---
