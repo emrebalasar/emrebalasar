@@ -30,7 +30,7 @@ Backend tarafında temiz, sürdürülebilir ve ölçeklenebilir sistemler kurmay
 
 ![emrebalasar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=emrebalasar&theme=nord&hide_border=false)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emrebalasar&layout=compact&theme=tokyonight&count_private=true)
+![emrebalasar's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=emrebalasar&theme=nord&show_icons=true&hide_border=false&layout=compact)
 
 ---
 
