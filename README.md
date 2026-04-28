@@ -28,7 +28,7 @@ Backend tarafında temiz, sürdürülebilir ve ölçeklenebilir sistemler kurmay
 
 ## 📊 GitHub İstatistikleri
 
-![Emre's GitHub stats](https://github-readme-stats.vercel.app/api?username=emrebalasar&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+![emrebalasar's Streak](https://github-readme-streak-stats.herokuapp.com/?user=emrebalasar&theme=nord&hide_border=false)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emrebalasar&layout=compact&theme=tokyonight&count_private=true)
 
